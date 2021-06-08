@@ -1,6 +1,6 @@
 $(function () {
     count = 0;
-    wordsArray = ["a developer", "a human (I guess)", "a programmer"];
+    wordsArray = ["a weeb", "a human (I guess so!)", "a programmer"];
     setInterval(function () {
         count++;
         $("#word").fadeOut(500, function () {
